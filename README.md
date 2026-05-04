@@ -7,7 +7,6 @@
 **BSc (Hons) IT Graduate | Aspiring Software QA Engineer**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thamashapasidunee&label=Profile%20views&color=orange&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamasha-pasidunee-a917ba2a7/)
 </div>
 
 ---
