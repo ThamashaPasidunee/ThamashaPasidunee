@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Thamasha Pasidunee</h1>
 
 
-<h3 align="center">IT Undergraduate at SLIIT | Exploring the Boundless World of Technology</h3>
+<h3 align="center">IT Graduate at SLIIT | Exploring the Boundless World of Technology</h3>
 
 
 
