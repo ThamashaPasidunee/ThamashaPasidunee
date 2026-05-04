@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=thamashapasidunee&label=Profile%20views&color=1D9E75&style=flat)](https://github.com/thamashapasidunee)
 [![Open to Work](https://img.shields.io/badge/Open%20to-QA%20Roles-orange?style=flat)](https://linkedin.com/in/thamashapasidunee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thamashapasidunee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/thamasha-pasidunee-a917ba2a7)
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thamasha%20Pasidunee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thamashapasidunee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thamasha%20Pasidunee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thamasha-pasidunee-a917ba2a7)
 
 </div>
 
