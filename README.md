@@ -1,38 +1,63 @@
-<p align="center">
+<div align="center">
+
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
- <p/>
-<h1 align="center">Hi 👋, I'm Thamasha Pasidunee</h1>
 
+# Hi there, I'm Thamasha Pasidunee 👋
 
-<h3 align="center">IT Graduate at SLIIT | Exploring the Boundless World of Technology</h3>
+**BSc (Hons) IT Graduate | Aspiring Software QA Engineer**
 
+[![Profile Views](https://komarev.com/ghpvc/?username=thamashapasidunee&label=Profile%20views&color=1D9E75&style=flat)](https://github.com/thamashapasidunee)
+[![Open to Work](https://img.shields.io/badge/Open%20to-QA%20Roles-orange?style=flat)](https://linkedin.com/in/thamashapasidunee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thamashapasidunee)
 
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thamashapasidunee&label=Profile%20views&color=0e75b6&style=flat" alt="thamashapasidunee" /> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thamasha pasidunee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamasha pasidunee" height="30" width="40" /></a>
-<a href="https://fb.com/thamasha pasidunee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thamasha pasidunee" height="30" width="40" /></a>
-<a href="https://instagram.com/thamasha pasidunee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thamasha pasidunee" height="30" width="40" /></a>
-</p>
+## 🙋‍♀️ About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 🎓 BSc (Hons) IT graduate from **SLIIT**
+- 💼 1-year Software Engineering Intern @ **Advantis Express Pvt Ltd**
+- 🧪 Passionate about **software quality** and test automation
+- 📚 Continuously expanding my QA knowledge and toolset
+- 📍 Based in Sri Lanka
 
-<br>
-<br>
-  <br>
+---
 
+## 🧪 QA & Testing Skills
 
-[![Thamasha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thamashapasidunee&theme=tokyonight)](https://git.io/praveenscience)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-0F6E56?style=for-the-badge)
+![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-1D9E75?style=for-the-badge)
+![Defect Reporting](https://img.shields.io/badge/Defect%20Reporting-5DCAA5?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-9FE1CB?style=for-the-badge&labelColor=555)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=thamashapasidunee&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thamashapasidunee&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamashapasidunee&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=thamashapasidunee&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+---
 
+## 🛠️ Dev Background
 
-<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
 
------
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thamasha%20Pasidunee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thamashapasidunee)
+
+</div>
+
+---
+
+<div align="center">
+  <i>"Quality is never an accident; it is always the result of intelligent effort." — John Ruskin</i>
+</div>
